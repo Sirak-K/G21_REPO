@@ -19,7 +19,7 @@ public class NGO2024 {
     public static void main(String[] args) {
 
         try {
-            idb = new InfDB("ngo_2024", "3306", "root", "masterkey");
+            idb = new InfDB("ngo_2024", "3306", "dbAdmin2024", "dbAdmin2024PW");
             new Inloggning(idb).setVisible(true);
         } 
         catch(InfException ex) {
