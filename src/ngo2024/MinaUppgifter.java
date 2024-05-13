@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package fonsterandrauppgifter;
+package ngo2024;
 
-import fonsterandrauppgifter.Services.AnstalldService;
+import ngo2024.Services.AnstalldService;
 import oru.inf.InfDB;
 import oru.inf.InfException;
 /**
